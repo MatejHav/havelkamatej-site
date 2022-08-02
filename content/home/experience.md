@@ -17,19 +17,66 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Multimedia"
+  title = "Bachelor of Computer Science"
+  company = "TU Delft"
+  company_url = "www.tudelft.nl"
+  location = "Delft, Netherlands"
+  date_start = "2019-09-01"
+  date_end = "2022-07-01"
+  description = """
+  Finished the Bachelor of Computer science and engineering.
+  I managed to obtain Cum Laude, with my bachelor thesis about Honesty in Causal Forests.
+  """
+
+[[experience]]
+  title = "Masters of Computer Science - AI Technology Track"
+  company = "TU Delft"
+  company_url = "www.tudelft.nl"
+  location = "Delft, Netherlands"
+  date_start = "2022-09-05"
+  date_end = ""
+  description = """
+  I am currently working on obtaining a masters degree of computer science in TU Delft on the
+  Artificial Intelligence track.
+  """
+
+[[experience]]
+  title = "Teaching Assistant"
   company = "TU Delft"
   company_url = "www.tudelft.nl"
   location = "Delft, Netherlands"
   date_start = "2021-07-01"
-  date_end = "2021-09-10"
+  date_end = ""
   description = """
   Responsibilities include:
   
   * Creating assignments
-  * Teamwork
-  * Communication
+  * Helping students in lab sessions
+  * Leading students in project groups
+  * Grading exam and assignments
+
+  Assistant for the following courses:
+  * Reasoning and Logic
+  * Computer Organization
+  * Object-Oriented Programming
+  * Web and Databases
+  * Calculus
+  * Image Processing
+  * Software Engineering Methods
+  """
+
+[[experience]]
+  title = "Web developer"
+  company = "TU Delft - AI4Fintech"
+  company_url = "www.tudelft.nl"
+  location = "Delft, Netherlands"
+  date_start = "2021-10-01"
+  date_end = "2022-02-01"
+  description = """
+  I worked as a web developer to create a website for the research group AI4Fintech in TUDelft.
+  As far as I know the website is still to be hosted.
   """
   
 +++

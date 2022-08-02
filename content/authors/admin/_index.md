@@ -7,7 +7,7 @@ authors:
 - admin
 # resume download button
 btn:
-- url : "https://sourcethemes.com/academic/docs/install/"
+- url : "authors/admin/CV_ta.pdf"
   label : "Download Resume"
 
 # Is this the primary user of the site?
@@ -32,6 +32,7 @@ interests:
 - Multimedia
 - Ardudino
 - Quantum Computing
+- History
 
 education:
   courses:
@@ -60,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "M.Havelka@student.tudelft.nl"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -69,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Matej Havelka will write something interesting about himself here.
+Hi! I am Matej (or Matthew) and welcome to my site. If you're here you might be wondering who I am, so tldr; I am currently a masters student of computer science in TU Delft. I am following the AI track as I found AI to be a big pasison of mine during the bachelor. Outside of my student life, I am a big fan of history and urban planning. I joined many projects or side experiments along the way, and most of them will be listed later in this site, but as a quick overview, I started in high school with some game projects in python like snake, tetris, etc. I also became a big fan of arduino projects, resulting in 3D room scanner based on ultrasound sensor, some dynamos and a python script to show the collected data. During my bachelor studies I followed intrest into algorithimcs, where I join every year for Advent of Code and followed the Algorithms honours programme for year and a half, and I also followed my interest for AI, ML and data in general, with projects from kaggle or some uni based hackathons. Overall I would say I am quite hard working for things I get excited about, and the more challenging a task is, the easier it is to get excited about it. i like to work on projects in teams, as I believe that if someone gets to see what I\m doing and vice versa, a lot of simple errors can be avoided. That is why I enjoy to work as a teaching assistant where I get to work with many amazing and smart people. Of course my journey is still ongoing, I still have multiple goals I would like to achieve until I finish my studies, like losing weight or finishing some books I started a while back. I hope this overview gave you a basic idea of who I am and I hope you get to enjoy this site.
