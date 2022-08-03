@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = "I HAVE THE FOLLOWING TECHNICAL SKILLS"
+subtitle = "I HAVE THE FOLLOWING SKILLS"
 
 # Showcase personal skills or business features.
 # 
@@ -20,19 +20,19 @@ subtitle = "I HAVE THE FOLLOWING TECHNICAL SKILLS"
   name = "Hugo"
 
 [[feature]]
-  icon = "coffee"
-  icon_pack = "fas"
+  icon = "java"
+  icon_pack = "fab"
   name = "Java"
 
 [[feature]]
-  icon = "snake"
-  icon_pack = "fas"
+  icon = "python"
+  icon_pack = "fab"
   name = "Python"
 
 [[feature]]
-  icon = "c"
+  icon = "water"
   icon_pack = "fas"
-  name = "C++"
+  name = "Functional Prog."
 
 [[feature]]
   icon = "robot"
@@ -43,5 +43,10 @@ subtitle = "I HAVE THE FOLLOWING TECHNICAL SKILLS"
   icon = "atom"
   icon_pack = "fas"
   name = "Quantum science and Information"
+
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Agile dev"
 
 +++
